@@ -1,0 +1,115 @@
+[ConfigurationID]
+ConfigTime = "25.03.2019 ;  10:50"
+
+[HardwareConfig]
+ChannelsPerDetector = 4
+NoOfDetectorCards = 6
+TriggerOptionInstalled = TRUE
+AnalogInInstalled = FALSE
+NoOfSourceChannels = 16
+HardwareID = 29298
+NoOfDevices = 1
+DeviceType = 0
+DeviceSN = "159999B\0D\0A"
+Laser = FALSE
+StudyType = 1
+LaserSplitter = FALSE
+LaserDriver = FALSE
+APD = FALSE
+Dual-tip = FALSE
+Short-distance = FALSE
+NoShortBundles = 0
+ShortDetIndex = "0\0D\0A"
+NoShortChannels = 0
+IncSwitchFreq = FALSE
+ShortInterDist = 0
+
+[ImagingParameters]
+NoOfSources = 16
+NoOfDetectors = 24
+NoOfWavelengths = 2
+NoOfTrigIns = 4
+NoOfTrigOuts = 0
+NoOfAnalogIns = 0
+SD-Combo = "1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0\0D\0A"
+MaskedSave = FALSE
+LED_Pattern = "1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0\0D\0A0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1\0D\0A"
+TopoLayout = "101,0,0,0,0,0,0,0\0D\0A0,0,0,0,0,0,0,0\0D\0A0,0,0,0,0,0,0,0\0D\0A0,0,0,0,0,0,0,0\0D\0A0,0,0,0,0,0,0,0\0D\0A0,0,0,0,0,0,0,0\0D\0A0,0,0,0,0,0,0,0\0D\0A0,0,0,0,0,0,0,0\0D\0A"
+Alternating = FALSE
+Montage = "Customized"
+NIRStar = 15.200000
+
+[StimulationParamters]
+StimType = 0
+Baseline = 15.000000
+StimOnDuration = 5.000000
+StimOffDuration = 10.000000
+Jitter = 0.000000
+NoOfBlocks = 10
+AutoStop = TRUE
+ExtTrigAve = 0
+
+[Options]
+HomePath = ""
+Prefix = "NIRS"
+Custom = FALSE
+Homer = FALSE
+LoadFile = FALSE
+LoadRoot = ""
+
+[TimingParamters]
+NIRS_WLs = "760.000000	850.000000\0D\0A"
+ModFreqs = "1000.000000	1500.000000\0D\0A"
+ModAmpls = "0.700000	0.700000\0D\0A"
+ModThresh = ""
+ModWaveForm = "0	0\0D\0A"
+AOSamplClRate = 10000.000000
+AIScanRate = 10000.000000
+N_Demod = 100
+SwitchFreq = 62.500000
+IntRate = FALSE
+ManualAmp = FALSE
+UpperLim = 3.000000
+DarkNoise = FALSE
+
+[DisplayParas]
+trig_mrks = "1	2\0D\0A"
+trig_baseline = 5.000000
+trig_disp = 30.000000
+Hyperscan = FALSE
+Opt_Distance = "30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30	30\0D\0A"
+Equidistant = TRUE
+Subj_Demog = TRUE
+ExtCoeff = "3.566242	1.349558\0D\0A1.592110	2.436574\0D\0A"
+SubjAge = 30.000000
+DPF = "6.296601	5.234328\0D\0A"
+SlidBase = TRUE
+BaseLength = 120.000000
+LaunchNIRSplay = FALSE
+PathNIRSplay = "/C/NIRx/NIRSPlay/nirsplay_v1.0"
+
+[LSLParameters]
+Enable = FALSE
+Mask = TRUE
+DataType = 0
+data_name = "NIRS"
+data_type = "NIRStar"
+data_source_id = "NIRStar"
+NMaskedChannels = 61
+NWavelengths = 2
+NConcentrations = 2
+NLSLChannels = 123
+trigger_name = "NIRS"
+trigger_type = "NIRStar"
+trigger_source_id = "NIRStar"
+NaN = TRUE
+TriggerIn = FALSE
+trigger_stream_name = "TriggerStream"
+default_trigger_id = 10
+
+[StreamingParameters]
+StreamData = FALSE
+Compress = FALSE
+TCP Port = 45342
+Buffer depth = 1
+MaskStream = FALSE
