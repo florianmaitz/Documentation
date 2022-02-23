@@ -10,6 +10,8 @@ In matlab you can make use of the [liblsl-Matlab](https://github.com/labstreamin
 
 The [LSL LabRecorder](https://github.com/labstreaminglayer/App-LabRecorder) collects all streams available in the local network and records them in XDF format. From version v1.14 onward, your XDF files also are stored in a BIDS format. We suggest you use LabRecorder from this version onwards.
 
+Having problems finding your experiment streams? The wifi and ethernet networks in the lab are not necesarily connected. If your laptop is connected via wifi you might not be able to see your streams on the ethernet (cable) network. For this we have an emergency LSL router at the lab. Connect it and connect all the computers in your experiment to the router.
+
 ## Snippets
 
 Python
