@@ -4,6 +4,12 @@ The following diagrams and checklists can help you setup your experiment consist
 
 ![Diagram for LiveAmp](./DiagramLiveAmp.jpg)
 
+### Layouts
+
+Different layouts can be designed to use with the EasycapM1 cap. This is the cap with predefined wholes for electrode placement. It looks as follows: 
+
+![M11 layout](https://pressrelease.brainproducts.com/wp-content/uploads/M1.jpg)
+
 ### Preparation
 
 - Print your EEG layout
