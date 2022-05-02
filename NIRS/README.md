@@ -15,6 +15,8 @@ Follow manual under `Manuals/NIRX/TroubleshootingStaticPhantom.pdf`
 
 ## Default layout
 
+![NIRS/Montages/Default_16x22/Standard.png](https://raw.githubusercontent.com/WriessneggerLab/Protocols/main/NIRS/Montages/Default_16x22/Standard.png)
+
 A default layout was created based on Wriessnegger 2018[^1]. Legacy files (`channel_masking/whole_head.hwc` and `channel_masking/TopoLayout_wholehead.tpl`) contained the masking and layout data: 16 sources and 22 detectors. A NIRStar configuration has been created to reproduce this setup with minimal setup. The folder including all files in usder `Montages/Default_16x22`.
 
 Diagnostics executed on 2022-05-02. All tests passed.
