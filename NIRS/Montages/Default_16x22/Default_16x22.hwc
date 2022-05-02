@@ -41,7 +41,7 @@ AutoStop = TRUE
 ExtTrigAve = 0    
 
 [Options]
-HomePath = "/C/Users/NIRS/Desktop/Bachmaier"
+HomePath = "/C/Users/NIRS/Documents/Default"
 Prefix = "NIRS"
 
 [TimingParamters]
