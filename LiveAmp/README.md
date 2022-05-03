@@ -10,6 +10,8 @@ Different layouts can be designed to use with the EasycapM1 cap. This is the cap
 
 ![M11 layout](https://pressrelease.brainproducts.com/wp-content/uploads/M1.jpg)
 
+Some layouts used in previous experiments can be found as their BrainVision Recorder Workspace file. For most projects, the `LiveAmpDefault.rwksp` workspace should be adequate.
+
 ### Preparation
 
 - Print your EEG layout
