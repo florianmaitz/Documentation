@@ -14,7 +14,7 @@ Having problems finding your experiment streams? The wifi and ethernet networks 
 
 ## Snippets
 
-Python
+Python string marker
 ```python
 from pylsl import StreamInfo, StreamOutle
 info = StreamInfo(name='PsychoPy',
@@ -25,6 +25,20 @@ info = StreamInfo(name='PsychoPy',
 )
 outlet = StreamOutlet(info)
 outlet.push_sample(["A string marker"])
+```
+
+Python numeric marker
+```python
+from pylsl import StreamInfo, StreamOutlet
+
+info = StreamInfo(name='PsychoPy',
+    type='Markers',
+    channel_count=1,
+    channel_format='int32',
+    source_id='PsychopyMarkersID321654'
+)
+outlet = StreamOutlet(info)
+outlet.push_sample([1])
 ```
 
 ## Online visualization
