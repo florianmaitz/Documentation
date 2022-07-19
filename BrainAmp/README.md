@@ -2,7 +2,7 @@
 
 The following diagrams and checklists can help you setup your experiment consistently. If you have any observation or suggestion please open an issue or make a PR.
 
-![Diagram for LiveAmp](./DiagramBrainAmp.jpg)
+![Diagram for BrainAmp](./DiagramBrainAmp.png)
 
 ### Layouts
 
