@@ -2,7 +2,7 @@
 
 The following diagrams and checklists can help you setup your experiment consistently. If you have any observation or suggestion please open an issue or make a PR.
 
-![Diagram for BrainAmp](./DiagramBrainAmp.png)
+![Diagram for BrainAmp](./DiagramBrainAmp.jpg)
 
 ### Layouts
 
@@ -15,7 +15,7 @@ No current default layout for BrainAmp.
 ### Preparation
 
 - Print your EEG layout
-- Charge batteries: 4 AAA bateries available at the lab.
+- Charge batteries: 4 AA bateries available at the lab.
 - Make sure electrodes are available and clean.
 - Check you have the consumables you need:
   - Conductive gel and syringes
