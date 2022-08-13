@@ -2,6 +2,19 @@
 
 The following diagrams and checklists can help you setup your experiment consistently. If you have any observation or suggestion please open an issue or make a PR.
 
+
+### Active electrodes and Impedances
+Some relevant links
+ActiCAP snap electordes: https://pressrelease.brainproducts.com/acticap-snap/ , https://pressrelease.brainproducts.com/active-electrodes-walkthrough-slim/
+Using BrainAmp with BrainVision requires the actiCAP ControlSoftware. Source: https://sites.bu.edu/reinhartlab/files/2017/06/BrainVision_Recorder_UM-1.pdf Chapter 7.1.1 and https://www.nmr.mgh.harvard.edu/~tatiana/BrainVisionManuals/Recorder_and_VideoRecorder/20201109_Recorder.pdf Chapter 9
+
+Default impedance threshold for slim active electrodes (source: https://pressrelease.brainproducts.com/active-electrodes-walkthrough-slim/):
+
+![Default impdances for ActiCAP electrodes](./default_impedances.png)
+
+
+### Connectivity diagram 
+
 ![Diagram for BrainAmp](./DiagramBrainAmp.jpg)
 
 ### Layouts
