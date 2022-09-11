@@ -1,0 +1,161 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "28edf09d07a2f505",
+        "type": "split",
+        "children": [
+          {
+            "id": "8a2efe3a7cb1d50f",
+            "type": "split",
+            "children": [
+              {
+                "id": "35b9a6bb54ecb908",
+                "type": "leaf",
+                "dimension": 68.9828801611279,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "378a48716936ae05",
+                "type": "leaf",
+                "dimension": 31.017119838872105,
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c0fc2446e8eedf4d",
+        "type": "split",
+        "children": [
+          {
+            "id": "7cd3c800a8e8dab1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45514fd470baf147",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a882e710fe3f3089",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#EEG",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c3185d493d64c032",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "c5455f925da3c4d9",
+        "type": "split",
+        "children": [
+          {
+            "id": "12f90683de7eefcd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e40c5e0d4f12a97f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fe3f7af72c33dc05",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "e0bb5c688fb98842",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35fba13cf18b8f6a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "1468a8334ee8a1a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f7ee43ad98b2c4bd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "378a48716936ae05"
+    }
+  },
+  "active": "Default"
+}

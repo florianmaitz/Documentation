@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "28edf09d07a2f505",
+    "type": "split",
+    "children": [
+      {
+        "id": "897a3637605edc28",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Documents/Wiki/Management/Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0fc2446e8eedf4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cd3c800a8e8dab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45514fd470baf147",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a882e710fe3f3089",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3185d493d64c032",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5455f925da3c4d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f90683de7eefcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40c5e0d4f12a97f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documents/Wiki/Management/Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe3f7af72c33dc05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Documents/Wiki/Management/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0bb5c688fb98842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35fba13cf18b8f6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1468a8334ee8a1a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ee43ad98b2c4bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documents/Wiki/Management/Obsidian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "45514fd470baf147",
+  "lastOpenFiles": [
+    "LiveAmp/README.md",
+    "LSL/README.md",
+    "NIRS/README.md",
+    "README.md",
+    "Documents/Wiki/Software/Configurations/BrainVision Recorder Workspace.md",
+    "Documents/Wiki/Techniques/EEG.md",
+    "Documents/Wiki/Techniques/ERP.md",
+    "Documents/Wiki/Techniques/fNIRs.md",
+    "Documents/Wiki/Techniques/LSL.md",
+    "Documents/Wiki/Software/XDF.md"
+  ]
+}

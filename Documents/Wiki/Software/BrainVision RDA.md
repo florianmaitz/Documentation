@@ -1,0 +1,2 @@
+#EEG 
+Remote Data Access (RDA) converts [[BrainProducts]]'s private communication protocol into [[LSL]] streams. You'll need to link the software and activate the RDA configuration in [[BrainVision Recorder]]: `Preferences > Remote Data Access`

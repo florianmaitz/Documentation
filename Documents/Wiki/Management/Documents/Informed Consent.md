@@ -1,0 +1,1 @@
+Your participant's writen information should be thoroughly read and understood. After having answered your participant's questions, they may sign the informed consent form on the last page.

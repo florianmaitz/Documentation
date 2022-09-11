@@ -27,22 +27,22 @@ No current default layout for BrainAmp.
 
 ### Preparation
 
-- Print your EEG layout
-- Charge batteries: 4 AA bateries available at the lab, plus battery of amplifier.
+- Print your EEG [[layout]]
+- Charge batteries: 4 AA [[bateries]] available at the lab, plus battery of amplifier.
 - Make sure electrodes are available and clean.
-- Check you have the consumables you need:
+- Check you have the [[Consumables]] you need:
   - Conductive gel and syringes
   - Alcohol and cotton swabs
   - *EOG stickers
   - *ECG stickers
   - Paper towels (to clean up extra gel)
   - *Masks and latex gloves if needed.
-- Measure your participant's head. We have three cap sizes: 54, 56, 58
+- Measure your participant's head. We have three [[cap sizes]]: 54, 56, 58
 - Prepare the adequate cap with the electrodes.
-- Check the necessary USBs are available: HASP key for software (Purple/Blue)
+- Check the necessary USBs are available: [[HASP Key]] for software (Purple/Blue)
 
 Optional Ext:
-- Prepare your external electrodes: ECG, GSR, etc.
+- Prepare your external electrodes: [[ECG]], [[GSR]], etc.
 
 ### Measurement
 
@@ -50,13 +50,13 @@ Optional Ext:
   1. Measure the distance from Nasion to Inion. Cz should be in the middle.
   2. Measure the distance from ear to ear. Cz should be in the middle.
   3. Look at the participant from the front. Does it look symmetric?
-  4. Connect the ControlBox and turn it on.
-- Place gel in electrodes. With the ControlBox' impedance mode (Z) active, use the syringes to place a bit of gel in the cap. Correct until impedance levels are low enough that the LEDs of of the electrodes are all green. Start placing gel in ground GND and reference REF electrodes.
-- Connect the ControlBox to the BrainAmp and turn on the amplifier. Do not set a specific mode on the ControlBox - just leave it turned on.
+  4. Connect the [[ControlBox]] and turn it on.
+- Place gel in electrodes. With the ControlBox' impedance mode (Z) active, use the syringes to place a bit of gel in the cap. Correct until impedance levels are low enough that the LEDs of of the electrodes are all green. Start placing gel in ground [[GND]] and reference [[REF]] electrodes.
+- Connect the [[ControlBox]] to the [[BrainAmp]] and turn on the amplifier. Do not set a specific mode on the ControlBox - just leave it turned on.
 - Start the software:
-  - BrainVision Recorder (Requires HASP key): This software reads data from the BrainAmp. In preferences, RemoteDataAccess and Passive Electrodes should be enabled. Make sure your layout is set correctly in the workspace.
-  - BrainVisionRDA: This sends data from BVRecorder through an LSL stream.
-  - LSLRecorder: Records LSL streams into XDF format.
+  - [[BrainVision Recorder]] (Requires [[HASP Key]]): This software reads data from the BrainAmp. In preferences, RemoteDataAccess and [[Passive Electrodes]] should be enabled. Make sure your layout is set correctly in the workspace.
+  - [[BrainVision RDA]]: This sends data from BVRecorder through an LSL stream.
+  - [[LSL LabRecorder]]: Records LSL streams into XDF format.
   - Your Paradigm: the experiment you prepared for presenting stimuli and instructions to your participants.
 - Check the signals in the BrainVision Recorder at 20 uV. Do they look like normal EEG? is there noise from the power line? Is there muscle noise?
 - Ask your participant to produce artefacts: teeth clenching, blinking, moving eyes, swallowing.

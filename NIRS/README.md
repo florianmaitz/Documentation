@@ -1,23 +1,30 @@
 # fNIRS setup
 
-These are some config files found on the computer, where the fNIRS device was setup.
+
+> [!NOTE] Note on the fNIRS setup
+> We're currently recovering from some data loss.
+
+
+These are some config files found on the computer, where the [[NIRScout]] device was setup.
+
 They seem to contain hardware configurations.
 
 Default experimental layout is included in `channel_masking`, and it seems important.
 
-There seems to be no Zebris montage file. This contains the 3D positions of the optodes (or channels, idk). It is useful for analysis with MNE.
+There seems to be no [[Zebris]] montage file. This contains the 3D positions of the [optodes][NIRScout#^a8ea9f] (or channels, I'm not sure). It is useful for analysis with [[MNE]].
 
 Installation files are ordered in fNIRS computer.
 
 ## Calibration
 
 Follow manual under `Manuals/NIRX/TroubleshootingStaticPhantom.pdf`
+![[TroubleshootingStaticPhantom.pdf]]
 
 ## Default layout
 
 ![NIRS/Montages/Default_16x22/Standard.png](https://raw.githubusercontent.com/WriessneggerLab/Protocols/main/NIRS/Montages/Default_16x22/Standard.png)
 
-A default layout was created based on Wriessnegger 2018[^1]. Legacy files (`channel_masking/whole_head.hwc` and `channel_masking/TopoLayout_wholehead.tpl`) contained the masking and layout data: 16 sources and 22 detectors. A NIRStar configuration has been created to reproduce this setup with minimal setup. The folder including all files in usder `Montages/Default_16x22`.
+A default layout was created based on Wriessnegger 2018[^1]. Legacy files (`channel_masking/whole_head.hwc` and `channel_masking/TopoLayout_wholehead.tpl`) contained the masking and layout data: 16 sources and 22 detectors. A [[NIRStar]] configuration has been created to reproduce this setup with minimal setup. The folder including all files in usder `Montages/Default_16x22`.
 
 Diagnostics executed on 2022-05-02. All tests passed.
 

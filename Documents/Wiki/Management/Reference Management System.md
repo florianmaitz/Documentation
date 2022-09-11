@@ -1,0 +1,3 @@
+- [[Zotero]]
+- [[Mendeley]]
+- [[JabRef]]

@@ -1,0 +1,1 @@
+Software with an open [[License]]. Their source code is generally available and free. Asside from the economic advantage, open source provides common science standards. 
