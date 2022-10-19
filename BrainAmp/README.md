@@ -50,11 +50,11 @@ Optional Ext:
   1. Measure the distance from Nasion to Inion. Cz should be in the middle.
   2. Measure the distance from ear to ear. Cz should be in the middle.
   3. Look at the participant from the front. Does it look symmetric?
-  4. Connect the [[ControlBox]] and turn it on.
-- Place gel in electrodes. With the ControlBox' impedance mode (Z) active, use the syringes to place a bit of gel in the cap. Correct until impedance levels are low enough that the LEDs of of the electrodes are all green. Start placing gel in ground [[GND]] and reference [[REF]] electrodes.
-- Connect the [[ControlBox]] to the [[BrainAmp]] and turn on the amplifier. Do not set a specific mode on the ControlBox - just leave it turned on.
+  4. Connect the BrainAmp control box and turn it on.
+- Place gel in electrodes. With the ControlBox's impedance mode (Z) active, use the syringes to place a bit of gel in the cap. Correct until impedance levels are low enough that the LEDs of of the electrodes are all green. Start placing gel in ground GND and reference REF electrodes.
+- Connect the BrainAmp control box to the [[BrainAmp]] and turn on the amplifier. Do not set a specific mode on the ControlBox - just leave it turned on.
 - Start the software:
-  - [[BrainVision Recorder]] (Requires [[HASP Key]]): This software reads data from the BrainAmp. In preferences, RemoteDataAccess and [[Passive Electrodes]] should be enabled. Make sure your layout is set correctly in the workspace.
+  - [[BrainVision Recorder]] (Requires [[HASP Key]]): This software reads data from the BrainAmp. In preferences, RemoteDataAccess and [[Electrodes]] should be enabled. Make sure your layout is set correctly in the workspace.
   - [[BrainVision RDA]]: This sends data from BVRecorder through an LSL stream.
   - [[LSL LabRecorder]]: Records LSL streams into XDF format.
   - Your Paradigm: the experiment you prepared for presenting stimuli and instructions to your participants.

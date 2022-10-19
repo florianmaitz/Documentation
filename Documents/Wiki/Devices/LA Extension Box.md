@@ -1,1 +1,1 @@
-A box connected to the [[LiveAmp]] for external electrodes. [[ECG]] [[GSR]], and Respiration belts can be connected through it. Respiration belts might require an adaptor not currently available.
+A box connected to the [[LiveAmp]] for external [[electrodes]]. [[ECG]] [[GSR]], and Respiration belts can be connected through it. Respiration belts might require an adaptor not currently available.

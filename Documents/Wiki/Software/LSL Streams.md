@@ -1,0 +1,1 @@
+Created with LSL libraries, LSL streams are TCP streams broadcasted through the network that allow the transmition of data and markers throughout the local network.

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bae34ce0d2f0b2d8",
+        "id": "e7de16f13d444e0a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Documents/Wiki/Hardware/HASP Key.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hasp",
+                "query": "passive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,13 +73,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Wiki/Hardware/HASP Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -95,8 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Wiki/Hardware/HASP Key.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -130,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Documents/Wiki/Hardware/HASP Key.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -141,17 +132,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bae34ce0d2f0b2d8",
+  "active": "e7de16f13d444e0a",
   "lastOpenFiles": [
+    "Documents/Wiki/Devices/Electrodes.md",
+    "BrainAmp/README.md",
     "Documents/Wiki/Management/Protocols/Default LA Protocol.md",
-    "Documents/Wiki/Devices/LA Extension Box.md",
-    "Documents/Wiki/Devices/BrainAmp.md",
-    "Documents/Wiki/Techniques/EEG.md",
-    "NIRS/Montages/Default_16x22/Diagnostics/Layout_Default.png",
+    "Documents/Wiki/Devices/ECG.md",
+    "Documents/Wiki/Rooms/4th floor Lab.md",
+    "Documents/Wiki/Devices/USB-Amp.md",
+    "Documents/Wiki/Devices/Oculus Quest 2.md",
+    "Documents/Wiki/Devices/LiveAmp.md",
     "Documents/Wiki/Devices/Layouts.md",
-    "Passive Electrodes.md",
-    "devices.md",
-    "layout.md",
-    "BrainAmp/README.md"
+    "Documents/Wiki/Devices/LA Extension Box.md"
   ]
 }

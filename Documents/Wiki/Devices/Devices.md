@@ -1,0 +1,1 @@
+Measurement devices, generally sensors and amplifiers that enable biosignal recording.

@@ -3,7 +3,7 @@ The following diagrams and checklists can help you setup your experiment consist
 ### Preparation
 - [ ] Print your EEG [[Layouts]]
 - [ ] Charge batteries: either [[LiveAmp]] via USB or [[power bank]].
-- [ ] Make sure the [[LA electrodes]] are available and clean.
+- [ ] Make sure the [[Electrodes]] are available and clean.
 - [ ] Check you have the [[Consumables]] you need:
 	- [ ] Conductive gel and syringes
 	- [ ] Alcohol and cotton swabs
@@ -12,11 +12,11 @@ The following diagrams and checklists can help you setup your experiment consist
 	- [ ] Paper towels (to clean up extra gel)
 	- [ ] Masks and latex gloves if needed.
 - [ ] Measure your participant's head. We have three [[EEG Cap]] sizes: 54, 56, 58
-- [ ] Prepare the adequate cap with the electrodes.
+- [ ] Prepare the adequate cap with the [[electrodes]].
 - [ ] Check the two necessary USBs are available: [[HASP Key]] for software and [[Bluetooth Dongle]] for connectivity.
 
 Optional Ext:
-- [ ] Prepare your external electrodes: [[ECG]], [[GSR]], etc.
+- [ ] Prepare your external [[electrodes]]: [[ECG]], [[GSR]], etc.
 - [ ] Make sure the [[Power Bank]] is charged.
 
 ### Measurement
@@ -31,13 +31,13 @@ Optional Ext:
 	- [[BrainVision RDA]]: This sends data from BVRecorder through an [[LSL]] stream.
 	- [[LSL LabRecorder]]: Records [[LSL]] streams into [[XDF]] format.
 	- Your Paradigm: the experiment you prepared for presenting stimuli and instructions to your participants.
-- [ ] Place gel in electrodes. With the impedance view open in BVRecorder, use the syringes to place a bit of gel in the cap. Correct until impedance levels on BVRecorder are lower than your selected threshold. Start placing gel in ground GND and reference REF electrodes.
+- [ ] Place gel in [[electrodes]]. With the impedance view open in BVRecorder, use the syringes to place a bit of gel in the cap. Correct until impedance levels on BVRecorder are lower than your selected threshold. Start placing gel in ground GND and reference REF electrodes.
 - [ ] Check the signals at 20 uV. Do they look like normal [[EEG]]? is there noise from the power line? Is there muscle noise?
 - [ ] Ask your participant to produce artefacts: teeth clenching, blinking, moving eyes, swallowing.
 - [ ] Leave the signals visible on [[BrainVision Recorder]] (otherwise [[BrainVision RDA]] won't send data)
-- [ ] (optional EXG): Setup your external [[Passive Electrodes]].
+- [ ] (optional EXG): Setup your external [[Electrodes]].
 - [ ] Link [[BrainVision RDA]]
-- [ ] Start your [[Experimental Protocol]].
+- [ ] Start your [[Paradigms]].
 - [ ] Verify all your streams appear in [[LSL LabRecorder]].
 - [ ] Check any [[experiment requirements]].
 - [ ] Start recording.

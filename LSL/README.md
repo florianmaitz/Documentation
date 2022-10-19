@@ -1,5 +1,5 @@
 # Working with LSL
-We make extensive use of the [Lab Streaming Layer framework](https://labstreaminglayer.readthedocs.io/index.html). This allows us to create, record, and communicate data and [[event markers]] from a wide range of [[devices]] and programming languages.
+We make extensive use of the [Lab Streaming Layer framework](https://labstreaminglayer.readthedocs.io/index.html). This allows us to create, record, and communicate data and [[Event Markers]] from a wide range of [[Devices]] and programming languages.
 
 For [[Psychopy]] [[Paradigms]] we use [pylsl](https://github.com/chkothe/pylsl).
 For [[Unity]] paradigms you can try [LSL4Unity](https://github.com/labstreaminglayer/LSL4Unity).
@@ -42,7 +42,7 @@ outlet.push_sample([1])
 ```
 
 ## Online visualization
-To check both [[data aquisition]] and [[marker streams]] online. We use the BrainVision [[LSLViewer]] to read and visualize LSL streams live from the network. It's free from the official page, but you have to register, so don't. It should already be installed on the computers at the lab. 
+To check both data and marker [[LSL Streams]] online we use the BrainVision [[LSL Viewers]] to read and visualize LSL streams live from the network. It's free from the official page, but you have to register, so don't. It should already be installed on the computers at the lab. 
 This software is slow and can produce sapmle drops on low resource machines, so use it in a different computer from the one recording your data.
 
 ## Offline inspection
