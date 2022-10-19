@@ -1,0 +1,1 @@
+EEG caps follow the 1020 system and come in different sizes. The size corresponds to the circumference of the head: The hat size. Measure it from right above the center of the brows, passing from inion and back to the forhead.

@@ -1,8 +1,8 @@
 The following diagrams and checklists can help you setup your experiment consistently. If you have any observation or suggestion please open an issue or make a PR.
 
 ### Preparation
-- [ ] Print your EEG [[layout]]
-- [ ] Charge batteries: either [[LiveAmp]] via USB or power bank.
+- [ ] Print your EEG [[Layouts]]
+- [ ] Charge batteries: either [[LiveAmp]] via USB or [[power bank]].
 - [ ] Make sure the [[LA electrodes]] are available and clean.
 - [ ] Check you have the [[Consumables]] you need:
 	- [ ] Conductive gel and syringes
@@ -11,7 +11,7 @@ The following diagrams and checklists can help you setup your experiment consist
 	- [ ] ECG stickers
 	- [ ] Paper towels (to clean up extra gel)
 	- [ ] Masks and latex gloves if needed.
-- [ ] Measure your participant's head. We have three [[cap sizes]]: 54, 56, 58
+- [ ] Measure your participant's head. We have three [[EEG Cap]] sizes: 54, 56, 58
 - [ ] Prepare the adequate cap with the electrodes.
 - [ ] Check the two necessary USBs are available: [[HASP Key]] for software and [[Bluetooth Dongle]] for connectivity.
 
@@ -28,16 +28,16 @@ Optional Ext:
   4. Connect the Amplifier and turn it on.
 - [ ] Start the software:
 	- [[BrainVision Recorder]] (Requires [[HASP Key]]): This software reads data from the [[LiveAmp]]. In preferences, RemoteDataAccess should be enabled. Make sure your layout is set correctly in the workspace.
-	- [[BrainVisionRDA]]: This sends data from BVRecorder through an LSL stream.
-	- [[LSLRecorder]]: Records LSL streams into XDF format.
+	- [[BrainVision RDA]]: This sends data from BVRecorder through an [[LSL]] stream.
+	- [[LSL LabRecorder]]: Records [[LSL]] streams into [[XDF]] format.
 	- Your Paradigm: the experiment you prepared for presenting stimuli and instructions to your participants.
-- [ ] Place gel in electrodes. With the impedance view open in BVRecorder, use the syringes to place a bit of gel in the cap. Correct until impedance levels on BVRecorder are lower than your selected threshold. Start placing gel in ground [[GND]] and reference [[REF]] electrodes.
+- [ ] Place gel in electrodes. With the impedance view open in BVRecorder, use the syringes to place a bit of gel in the cap. Correct until impedance levels on BVRecorder are lower than your selected threshold. Start placing gel in ground GND and reference REF electrodes.
 - [ ] Check the signals at 20 uV. Do they look like normal [[EEG]]? is there noise from the power line? Is there muscle noise?
 - [ ] Ask your participant to produce artefacts: teeth clenching, blinking, moving eyes, swallowing.
-- [ ] Leave the signals visible on [[BrainVision RDA|BVRecorder]] (otherwise [[BrainVision RDA|BVRDA]] won't send data)
-- [ ] (optional [[EXG]]): Setup your external electrodes.
-- [ ] Link [[BVRDA]]
-- [ ] Start your [[protocol]].
+- [ ] Leave the signals visible on [[BrainVision Recorder]] (otherwise [[BrainVision RDA]] won't send data)
+- [ ] (optional EXG): Setup your external [[Passive Electrodes]].
+- [ ] Link [[BrainVision RDA]]
+- [ ] Start your [[Experimental Protocol]].
 - [ ] Verify all your streams appear in [[LSL LabRecorder]].
 - [ ] Check any [[experiment requirements]].
 - [ ] Start recording.
@@ -53,4 +53,4 @@ Optional Ext:
 - [ ] Wash electrodes with water and a toothbrush.
 - [ ] Wash syringes and needles with water.
 - [ ] Wash off disinfectant from cap, and dry with a towel.
-- [ ] Bring everything back to the fNIRS/VR lab.
+- [ ] Bring everything back to the fNIRS/[[VRLab]].

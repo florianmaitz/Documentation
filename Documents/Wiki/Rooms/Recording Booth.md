@@ -1,0 +1,1 @@
+On every lab there is at least one [[Recording Booth]]. These are sono-amortiguated, electromagnetically-shielded wooden structures where participants and devices can sit undisturbed by external stimuli. 

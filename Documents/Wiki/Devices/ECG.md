@@ -1,1 +1,2 @@
 #ECG
+ECG is recorded with [[Passive Electrodes]] with a clip tip attached to ECG stickers. These can be found in both the [[VRLab]] and the [[4th floor Lab]]. Most amplifiers allow a connection to these. The [[LiveAmp]] requires the [[LA Extension Box]].

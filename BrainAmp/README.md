@@ -27,7 +27,7 @@ No current default layout for BrainAmp.
 
 ### Preparation
 
-- Print your EEG [[layout]]
+- Print your EEG [[Layouts]]
 - Charge batteries: 4 AA [[bateries]] available at the lab, plus battery of amplifier.
 - Make sure electrodes are available and clean.
 - Check you have the [[Consumables]] you need:
@@ -37,7 +37,7 @@ No current default layout for BrainAmp.
   - *ECG stickers
   - Paper towels (to clean up extra gel)
   - *Masks and latex gloves if needed.
-- Measure your participant's head. We have three [[cap sizes]]: 54, 56, 58
+- Measure your participant's head. We have three [[EEG Cap]]: 54, 56, 58
 - Prepare the adequate cap with the electrodes.
 - Check the necessary USBs are available: [[HASP Key]] for software (Purple/Blue)
 

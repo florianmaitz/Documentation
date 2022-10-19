@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "897a3637605edc28",
+        "id": "bae34ce0d2f0b2d8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documents/Wiki/Management/Obsidian.md",
+            "file": "Documents/Wiki/Hardware/HASP Key.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsid",
+                "query": "hasp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,14 +78,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Wiki/Management/Obsidian.md",
+                "file": "Documents/Wiki/Hardware/HASP Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,13 +95,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Wiki/Management/Obsidian.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Documents/Wiki/Hardware/HASP Key.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e0bb5c688fb98842",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Wiki/Management/Obsidian.md"
+                "file": "Documents/Wiki/Hardware/HASP Key.md"
               }
             }
           }
@@ -139,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "45514fd470baf147",
+  "active": "bae34ce0d2f0b2d8",
   "lastOpenFiles": [
-    "LiveAmp/README.md",
-    "LSL/README.md",
-    "NIRS/README.md",
-    "README.md",
-    "Documents/Wiki/Software/Configurations/BrainVision Recorder Workspace.md",
+    "Documents/Wiki/Management/Protocols/Default LA Protocol.md",
+    "Documents/Wiki/Devices/LA Extension Box.md",
+    "Documents/Wiki/Devices/BrainAmp.md",
     "Documents/Wiki/Techniques/EEG.md",
-    "Documents/Wiki/Techniques/ERP.md",
-    "Documents/Wiki/Techniques/fNIRs.md",
-    "Documents/Wiki/Techniques/LSL.md",
-    "Documents/Wiki/Software/XDF.md"
+    "NIRS/Montages/Default_16x22/Diagnostics/Layout_Default.png",
+    "Documents/Wiki/Devices/Layouts.md",
+    "Passive Electrodes.md",
+    "devices.md",
+    "layout.md",
+    "BrainAmp/README.md"
   ]
 }

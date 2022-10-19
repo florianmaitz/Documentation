@@ -1,2 +1,2 @@
 #EEG 
-The towel cabinet is next to the [[4th floor bathroom]] door. You should find the toweles you need for your experiments there. Dirty towels go in the bins. If you see one section or less full of towels please let Ms. Still know at the [[Secretary]], and take the bins to her. The company that washes the bins comes on **Mondays**. 
+The towel cabinet is next to the [[4th floor Lab]] bathroom door. You should find the toweles you need for your experiments there. Dirty towels go in the bins. If you see one section or less full of towels please let Ms. Still know at the [[Secretary]], and take the bins to her. The company that washes the bins comes only on **Mondays**. 

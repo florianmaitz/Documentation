@@ -11,7 +11,7 @@ They seem to contain hardware configurations.
 
 Default experimental layout is included in `channel_masking`, and it seems important.
 
-There seems to be no [[Zebris]] montage file. This contains the 3D positions of the [optodes][NIRScout#^a8ea9f] (or channels, I'm not sure). It is useful for analysis with [[MNE]].
+There seems to be no [[Zebris]] montage file. This contains the 3D positions of the [optodes][NIRScout#^a8ea9f] (or channels, not sure). It is useful for analysis with [[MNE]].
 
 Installation files are ordered in fNIRS computer.
 

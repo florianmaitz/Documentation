@@ -2,7 +2,7 @@
 Reference and documentation Lab usage.
 
 > [!WARNING] Warning 
-> This documentation is currently being updated to a knowledge base.
+> This documentation is currently being updated to a knowledge base. We recommend the usage of [[Obsidian]] to read it.
 
 With this repository we aim to standarize default procedures across experiments, promote adequate usage of the lab devices and resources.
 
@@ -17,7 +17,7 @@ Place a sign at the door to avoid unexpected interruptions. A printed sign is pr
 Do not leave participants alone in the lab for more than 5 minutes.
 Clean the devices according to their specified recommendations.
 When you finish your measurement, you are responsible to ensure the necessary devices and consumables are available for the next measurement. This also applies for device's battery charge.
-Used [[Towels]] must be left in the [[4th floor bathroom]]. If the bin is full, bring it to the INE.
+Used [[Towels]] must be left in the [[4th floor Lab]] bathroom. If the bin is full, bring it to the INE.
 Back up the recorded data on the Institute's servers.
 Do not keep sensitive data on the cloud. If you must, only do so on services with two-factor-authentication activated.
 

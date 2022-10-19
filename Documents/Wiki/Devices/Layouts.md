@@ -1,0 +1,1 @@
+Setting sensors on participant's heads in a consistant way requires an explicit representation of the sensor positioning. For this reason, layout files must be specified for every experiment. If you don't know what layout to use, you should probably use the [[Layout_Default.png]]. Consult your bibliograhpy, then your supervisor.
