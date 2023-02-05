@@ -1,0 +1,1 @@
+BMT04022E: Room available to wash hair, electrodes, and caps. 

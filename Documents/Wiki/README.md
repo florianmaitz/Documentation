@@ -1,0 +1,1 @@
+A small knowledge base for the Lab: Use [[Obsidian]] for best visualization.

@@ -1,2 +1,4 @@
 #ECG
 ECG is recorded with passive [[Electrodes]] with a clip tip attached to ECG stickers. These can be found in both the [[VRLab]] and the [[4th floor Lab]]. Most amplifiers allow a connection to these. The [[LiveAmp]] requires the [[LA Extension Box]].
+
+ECG has prooven to be noisy. We're working on bluetooth HR bands to reduce noise.

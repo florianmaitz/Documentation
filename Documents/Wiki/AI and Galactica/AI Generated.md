@@ -1,0 +1,3 @@
+
+The following text is AI generated, related to LSL and it's python library:
+ The Python Library for Lab Streaming Layer (LSL) is an open-source library designed to facilitate the easy integration of real-time data streams into applications and systems. The library supports the most popular operating systems, including Windows, Linux and Mac OS X, as well as various programming languages like C++, Java, Python and MATLAB. It provides a unified interface to access synchronized data streams from multiple sources. With LSL, developers can easily build applications that utilize real-time data from multiple sources in a convenient and efficient way.
