@@ -2,5 +2,7 @@
   "find-unlinked-files",
   "consistent-attachments-and-links",
   "templater-obsidian",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "obsidian-textgenerator-plugin",
+  "obsidian-dialogue-plugin"
 ]

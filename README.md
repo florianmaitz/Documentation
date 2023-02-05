@@ -4,6 +4,7 @@ Reference and documentation Lab usage.
 > [!WARNING] Warning 
 > This documentation is currently being updated to a knowledge base. We recommend the usage of [[Obsidian]] to read it.
 
+
 With this repository we aim to standarize default procedures across experiments, promote adequate usage of the lab devices and resources.
 
 ## Lab Rules
